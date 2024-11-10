@@ -20,7 +20,7 @@ public_headers={
    'cookie':'__cfduid=d3af1fe4e02395143768f49120192d89a1612161290; _gid=GA1.2.537470263.1612161292; shunt=1; AVS=pgucjspmo4rgafa4vinl3feug4; ipcountry=TW; ipm5=ad96616d894884f20b4e263448a05911; _ga_YYJWNTTJEN=GS1.1.1612339484.9.1.1612339785.59; _gat_ga0=1; _gat_ga1=1; _ga=GA1.2.2093487367.1612161292; _gat_gtag_UA_99252457_3=1; cover=1; _gali=chk_cover',
     'User-Agent':ua.random
 }
-path = input('请输入无需处理的漫画保存路径：')                #替换自己的路径并把\换成/
+path = https://18comic.vip/album/201118/('请输入无需处理的漫画保存路径：')                #替换自己的路径并把\换成/
 #大类（分类）链接转换为目录和开始阅读链接
 def getData(url):
     try:
